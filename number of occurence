@@ -1,4 +1,6 @@
-code to find the number of occurences of key values .
+code to find the number of occurences of key values use formula(lastindex-firstindex)+1
+
+To find all the index of occurence
 
 #include <iostream>
 
